@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(226, 43, 43);
+}
+
+#teste1 {
+    background-color: gray;
+}
+
+
+
+h1{
+    color:rgb(26, 255, 0);
+}
+
+#teste {
+    color:rgb(1, 1, 1);
+    font-size:60px;
+
+}
+
+p {
+    color :red
+}
+div{
+    background-color: rgb(226, 43, 43);
+    display: block;
